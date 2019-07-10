@@ -3,3 +3,4 @@ These data sets contain  SPDT contact networks extracted from the GPS location u
 
 https://arxiv.org/pdf/1806.03386.pdf
 http://www.mlgworkshop.org/2018/papers/MLG2018_paper_19.pdf
+https://arxiv.org/pdf/1906.02856.pdf
